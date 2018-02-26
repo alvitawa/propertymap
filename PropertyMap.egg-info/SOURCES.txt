@@ -1,0 +1,6 @@
+README.txt
+setup.py
+PropertyMap.egg-info/PKG-INFO
+PropertyMap.egg-info/SOURCES.txt
+PropertyMap.egg-info/dependency_links.txt
+PropertyMap.egg-info/top_level.txt
